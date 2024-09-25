@@ -1,1 +1,1 @@
-bluedata/ubuntu18.04
+bluedata/ubuntu18.04:1.3
