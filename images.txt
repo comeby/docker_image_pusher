@@ -1,1 +1,1 @@
-ecpe4s/ubuntu20.04:24.02
+ghcr.io/open-webui/open-webui:main
