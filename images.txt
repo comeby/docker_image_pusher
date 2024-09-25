@@ -1,9 +1,1 @@
-traefik/whoami:v1.10
-nginx
-openmmlab/lmdeploy:v0.5.3-cu11
-openmmlab/lmdeploy:v0.5.3-cu12
-openmmlab/lmdeploy:v0.6.0a0-cu11
-openmmlab/lmdeploy:v0.6.0a0-cu12
-vllm/vllm-openai:v0.6.0
-artifacts.codelinaro.org/codelinaro-aimet/aimet-dev:latest.torch-gpu
 bluedata/ubuntu18.04
