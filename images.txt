@@ -1,1 +1,1 @@
-bluedata/ubuntu18.04:1.3
+ecpe4s/ubuntu20.04:24.02
