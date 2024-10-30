@@ -1,1 +1,1 @@
-outlinesdev/outlines:0.1.1
+linyq1/narratoai:latest
