@@ -1,2 +1,2 @@
 savatar101/omniparse:0.1
-openmmlab/lmdeploy:v0.6.3-cu11
+hiyouga/llamafactory:0.9.4
