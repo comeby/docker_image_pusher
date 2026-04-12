@@ -1,4 +1,1 @@
-openclaw/openclaw:latest
-savatar101/omniparse:0.1
-hiyouga/llamafactory:0.9.4
 unsloth/unsloth:2026.4.4-pt2.9.0-vllm-0.16.0-cu12.8-studio-release-v0.1.36-beta
